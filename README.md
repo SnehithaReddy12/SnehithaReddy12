@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SnehithaReddy12
+- 👀 I’m interested in coding,designing
+- 🌱 I’m currently learning web development 
